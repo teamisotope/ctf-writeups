@@ -7,7 +7,7 @@
 
 [https://mirage.hexionteam.com](https://mirage.hexionteam.com)
 
-![Mirage](/ctfs/hexion/2020/assets/images/mirage.png)
+![Mirage](/en/latest/ctfs/hexion/2020/assets/images/mirage.png)
 
 ## Solution
 
@@ -15,7 +15,7 @@ The flag is encoded in a font (hexFont) that has some glyphs rearranged. Doing s
 
 ## Script
 
-[mirage.py](/ctfs/hexion/2020/assets/scripts/mirage.py)
+[mirage.py](/en/latest/ctfs/hexion/2020/assets/scripts/mirage.py)
 ```py
 strng = "j4teqybvAskIE2S}4IdIc_M5IB8IHmlIF_0Ypn"
 

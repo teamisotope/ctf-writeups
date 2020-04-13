@@ -18,4 +18,4 @@ Follow our Twitter to stay updated: [https://twitter.com/hexion_team](https://tw
 
 ## Events
 
-* [Hexion CTF 2020 (Online)](/ctfs/hexion/2020)
+* [Hexion CTF 2020 (Online)](/en/latest/ctfs/hexion/2020)

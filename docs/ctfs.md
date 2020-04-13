@@ -1,3 +1,3 @@
 # CTFs
 
-* [Hexion CTF](/ctfs/hexion)
+* [Hexion CTF](/en/latest/ctfs/hexion)

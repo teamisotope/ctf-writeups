@@ -14,9 +14,9 @@ PIL = PI + IL
 
 Some ILCode is provided as well as a bitmap.
 
-![result.bmp](/ctfs/hexion/2020/assets/provided/result.bmp)
+![result.bmp](/en/latest/ctfs/hexion/2020/assets/provided/result.bmp)
 
-`source` ([provided](/ctfs/hexion/2020/assets/provided/source)):
+`source` ([provided](/en/latest/ctfs/hexion/2020/assets/provided/source)):
 ```
 .class private auto ansi '<Module>'
 {
@@ -182,7 +182,7 @@ Then I used ILSpy (the cross-platform command-line version since I'm using Linux
 
 The source I got:
 
-[PIL.cs](/ctfs/hexion/2020/assets/scripts/PIL.cs)
+[PIL.cs](/en/latest/ctfs/hexion/2020/assets/scripts/PIL.cs)
 ```csharp
 using System;
 using System.Collections;
@@ -259,7 +259,7 @@ Here's the script that I used for this:
 
 (I had to use Python 2 cause it was complaining about non-UTF8 characters in `result.bmp`)
 
-[PIL.py](/ctfs/hexion/2020/assets/scripts/PIL.py)
+[PIL.py](/en/latest/ctfs/hexion/2020/assets/scripts/PIL.py)
 ```python
 
 with open("result.bmp", "r") as file:

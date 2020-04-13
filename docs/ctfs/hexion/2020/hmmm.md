@@ -6,7 +6,7 @@
 
 Note: anime girl isn't the flag
 
-(linked binary: ["hmmm"](/ctfs/hexion/2020/assets/provided/hmmm))
+(linked binary: ["hmmm"](/en/latest/ctfs/hexion/2020/assets/provided/hmmm))
 
 ## Solution
 
