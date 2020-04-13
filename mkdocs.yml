@@ -1,0 +1,9 @@
+site_name: 'TeamIsotope CTFs'
+theme:
+  name: 'material'
+nav:
+- Home: 'index.md'
+- CTFs: 'ctfs.md'
+repo_url: https://github.com/TeamIsotope/ctf-writeups/
+markdown_extensions:
+- codehilite
