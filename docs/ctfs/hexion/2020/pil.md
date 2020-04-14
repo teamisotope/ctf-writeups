@@ -309,3 +309,8 @@ Extracting that first part of that text gets you the flag.
 ### Non-Provided References
 
 `pi.txt` is simply a truncated (remove the first two characters, `3.`) version of [pi1000000.txt](https://www.angio.net/pi/digits/pi1000000.txt) from [angio.net](https://www.angio.net/pi/digits.html).
+
+### Addenda
+
+I made an updated (and better) version of the PIL script, it's available [here](/en/latest/ctfs/hexion/2020/assets/scripts/pisteg.py)
+It requires Python 3 and the `hexdump` package
