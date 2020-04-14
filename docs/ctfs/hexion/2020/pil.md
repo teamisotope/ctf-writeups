@@ -314,4 +314,4 @@ Extracting that first part of that text gets you the flag.
 
 I made an updated (and better) version of the PIL script, it's available [here](/en/latest/ctfs/hexion/2020/assets/scripts/pisteg.py).
 
-It requires Python 3 and the `hexdump` package
+It requires Python 3 as well as two packages: `hexdump` and `requests`
